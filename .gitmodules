@@ -5,3 +5,6 @@
 [submodule "mcplite"]
 	path = mcplite
 	url = https://github.com/tosidata/mcplite
+[submodule "rairai"]
+	path = rairai
+	url = https://github.com/tosidata/rairai
